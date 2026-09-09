@@ -42,10 +42,23 @@
     </a>
 </p>
 
-## 💻 Tech Stack:
-*Applicable skill logos from the sources provided.*
+---
+
+## 💻 Tech Stack & Tools:
 <p align="center">
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,java,python,php,react,nextjs,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,postman)](https://skillicons.dev)
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45" alt="C" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45" alt="C++" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45" alt="Java" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45" alt="JavaScript" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45" alt="Python" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="45" alt="HTML" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="45" alt="CSS" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="45" alt="React" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="45" alt="Node.js" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="45" alt="MySQL" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="45" alt="MongoDB" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="45" alt="Git" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="45" alt="GitHub" />
 </p>
 
 ---
@@ -65,6 +78,5 @@
 ---
 
 <p align="center">
-  <!-- If you want the 'contribution snake' to appear, make sure you have the 'aditya-contribution-snake.svg' action set up to generate in your repository root. -->
   <img src="./aditya-contribution-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
