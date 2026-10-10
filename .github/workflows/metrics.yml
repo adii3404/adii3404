@@ -1,4 +1,5 @@
 name: GitHub Metrics
+
 on:
   # Updates automatically every day at midnight
   schedule: [{cron: "0 0 * * *"}]
