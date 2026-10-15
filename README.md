@@ -1,7 +1,8 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="GITHUB" width="35"/>
-  Hello, &lt;Coder's/&gt;! I'm Aditya 👋
-</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="GITHUB Banner" width="100%" />
+</p>
+
+<h1 align="center">Hello, &lt;Coder's/&gt;! I'm Aditya 👋</h1>
 
 <p align='center'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+Junior+Full+Stack+Developer" alt="Welcome to my GitHub Profile" />
