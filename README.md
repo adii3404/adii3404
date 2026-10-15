@@ -4,27 +4,16 @@
 
 <h1 align="center">Hello, &lt;Coder's/&gt;! I'm Aditya 👋</h1>
 
-<img align="right" height="250" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"/>
+### About Me
 
-### 💻 Tech Stack:
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,php,react,nextjs,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,postman&perline=5" alt="Tech Stack Icons" />
-  </a>
-</p>
+- Core CS Student and Full Stack Developer specializing in scalable, responsive web applications and AI-integrated platforms. Strong expertise in Java, Python, JavaScript, and RESTful APIs with hands-on experience developing robust solutions using the MERN stack. Adept at implementing efficient problem-solving strategies to deliver high-performance, real-time applications.
+- Currently pursuing a Master of Computer Applications (MCA) at MES'IMCC, Kothrud, Pune.
+- Actively contributing to innovative open-source projects and actively participating in professional hackathons.
+- Currently learning cloud fundamentals, Large Language Models (LLMs), and RAG frameworks.
+- Participated in more than 8 hackathons and secured 5th Runner-Up at the GDG GNIOT Tech Sprint Hackathon.
 
-<br clear="both">
+### Connect With Me
 
-### 💫 About Me:
-
-- 🔭 I’m currently pursuing my **Master of Computer Applications (MCA)** at MES Institute, Pune.
-- 👯 I’m looking to collaborate on **innovative open-source projects and hackathons**.
-- 🌱 I’m currently learning and integrating **AI/ML, LLMs, and RAG frameworks**.
-- 💬 Ask me about **MERN Stack, Java, and building dynamic web apps**.
-- 🏆 I recently secured **5th Runner-Up at the GDG GNIOT Tech Sprint Hackathon!**
-- 🚗 **Fun Fact:** When I'm not coding, you'll probably find me enjoying a scenic road trip!
-
-### 🌐 Connect With Me:
 <p align="left">
     <a href="mailto:aditya.builds2025@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -35,15 +24,39 @@
     <a href="https://adityabhandari.in" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
     </a>
+    <a href="https://leetcode.com/u/adie_exe/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    </a>
 </p>
 
-### 🚀 Featured Projects:
-* **CampusPulse** - An AI-enabled campus complaint management platform with real-time tracking. *(GDG Hackathon 5th Runner-up)*
-* **PharmaSys Pro** - A full-stack Pharmacy Management System automating inventory tracking with secure backend operations.
+### Tech Stack
+
+<p align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://skillicons.dev" target="_blank" style="width: 48%;">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,php,react,nextjs,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,postman&perline=5" alt="Tech Stack Icons" width="100%" />
+  </a>
+  <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" alt="GIF" style="width: 48%; border-radius: 8px;" />
+</p>
+
+<br clear="both">
+
+### Featured Projects
+
+**SenseIT – Cyclone Impact & Infrastructure Forecaster** | *Next.js, React, Gemini AI* 
+- Engineered a real-time disaster surveillance dashboard for emergency operations, integrating Leaflet for interactive map-based cyclone trajectory tracking.
+- Integrated Gemini AI to generate automated risk-scoring and impact analysis for 50+ simulated critical infrastructure nodes (hospitals, power substations).
+- Developed a one-click dispatch system for SMS and radio alerts to coordinate with emergency response agencies (NDRF, Police, Fire), alongside an AI assistant for dynamic situational queries and automated PDF report generation.
+
+**CampusPulse – Campus Complaint Management Interface** | *TypeScript, MongoDB, Python*
+- 5th Runner-Up at GDG GNIOT Tech Sprint Hackathon (2026).
+- Architected an intelligent complaint management platform, streamlining issue reporting and resolution tracking for university students and administrators.
+- Integrated Python-based machine learning modules to automatically categorize and prioritize incoming campus complaints based on urgency and department routing.
+- Built a scalable database architecture using MongoDB and structured the frontend interface utilizing TypeScript for type-safe, maintainable code.
 
 ---
 
-### ⚡ GitHub Stats:
+### GitHub Stats
+
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
