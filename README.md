@@ -6,9 +6,9 @@
 
 ### About Me
 
-- Core CS Student and Full Stack Developer specializing in scalable, responsive web applications and AI-integrated platforms. Strong expertise in Java, Python, JavaScript, and RESTful APIs with hands-on experience developing robust solutions using the MERN stack. Adept at implementing efficient problem-solving strategies to deliver high-performance, real-time applications.
+- Core CS Student and Full Stack Developer specializing in scalable, responsive web applications and AI-integrated platforms.
 - Currently pursuing a Master of Computer Applications (MCA) at MES'IMCC, Kothrud, Pune.
-- Actively contributing to innovative open-source projects and actively participating in professional hackathons.
+- Actively participating in hackathons and workshops and looking forward to contribute in open source projects.
 - Currently learning cloud fundamentals, Large Language Models (LLMs), and RAG frameworks.
 - Participated in more than 8 hackathons and secured 5th Runner-Up at the GDG GNIOT Tech Sprint Hackathon.
 
@@ -31,14 +31,18 @@
 
 ### Tech Stack
 
-<p align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://skillicons.dev" target="_blank" style="width: 48%;">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,php,react,nextjs,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,postman&perline=5" alt="Tech Stack Icons" width="100%" />
-  </a>
-  <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" alt="GIF" style="width: 48%; border-radius: 8px;" />
-</p>
-
-<br clear="both">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://skillicons.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,php,react,nextjs,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,postman&perline=5" alt="Tech Stack Icons" width="85%" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" alt="Coding GIF" width="85%" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 ### Featured Projects
 
