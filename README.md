@@ -4,11 +4,16 @@
 
 <h1 align="center">Hello, &lt;Coder's/&gt;! I'm Aditya 👋</h1>
 
-<p align='center'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+Junior+Full+Stack+Developer" alt="Welcome to my GitHub Profile" />
+<img align="right" height="250" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"/>
+
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,php,react,nextjs,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,postman&perline=5" alt="Tech Stack Icons" />
+  </a>
 </p>
 
-<img align="right" height="250" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"/>
+<br clear="both">
 
 ### 💫 About Me:
 
@@ -18,8 +23,6 @@
 - 💬 Ask me about **MERN Stack, Java, and building dynamic web apps**.
 - 🏆 I recently secured **5th Runner-Up at the GDG GNIOT Tech Sprint Hackathon!**
 - 🚗 **Fun Fact:** When I'm not coding, you'll probably find me enjoying a scenic road trip!
-
-<br clear="both">
 
 ### 🌐 Connect With Me:
 <p align="left">
@@ -32,13 +35,6 @@
     <a href="https://adityabhandari.in" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
     </a>
-</p>
-
-### 💻 Tech Stack:
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,php,react,nextjs,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,docker,postman" alt="Tech Stack Icons" />
-  </a>
 </p>
 
 ### 🚀 Featured Projects:
